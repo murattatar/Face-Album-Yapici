@@ -11,7 +11,7 @@ Halka açık kullacılar arasından, ID komşuluğuna göre albüm hazırlar
 #### Kullanım
 * **AlbumYap.py** dosyasını python IDE ile açın
 * **F5**' basın
-* Face ID'nizi girin (../KULLANICIADI şeklinde kullanıyorsanız: https://findmyfbid.in/)
+* Face ID'nizi girin ( ../KULLANICIADI şeklinde kullanıyorsanız ID'inizi bulmak için: https://findmyfbid.in/)
 * Kısa sürede albümünüz hazır olacak ;)
 
 #### Not
