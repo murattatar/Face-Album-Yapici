@@ -1,18 +1,18 @@
 
-# Face Albüm Yapıcı
+# Face AlbÃ¼m YapÄ±cÄ±
 
-Halka açık kullacılar arasından, ID komşuluğuna göre alüm hazırlar
+Halka aÃ§Ä±k kullacÄ±lar arasÄ±ndan, ID komÅŸuluÄŸuna gÃ¶re albÃ¼m hazÄ±rlar
 
 #### Kurulum
 
 * Pyhton 2.7 indirin https://www.python.org/downloads/
 
 
-#### Kullanım
-* AlbumYap.py dosyasını python IDE ile açın
-* F5' basın
-* Face ID'nizi girin (../KULLANICIADI şeklinde kullanıyorsanız: https://findmyfbid.in/)
-* Kısa sürede albümünüz hazır olacak ;)
+#### KullanÄ±m
+* **AlbumYap.py** dosyasÄ±nÄ± python IDE ile aÃ§Ä±n
+* **F5**' basÄ±n
+* Face ID'nizi girin (../KULLANICIADI ÅŸeklinde kullanÄ±yorsanÄ±z: https://findmyfbid.in/)
+* KÄ±sa sÃ¼rede albÃ¼mÃ¼nÃ¼z hazÄ±r olacak ;)
 
 #### Not
-Sadece halka açık olarak resmini paylaşmış kullanıcıları görebilirsiniz.
+Sadece halka aÃ§Ä±k olarak resmini paylaÅŸmÄ±ÅŸ kullanÄ±cÄ±larÄ± gÃ¶rebilirsiniz.
