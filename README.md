@@ -12,7 +12,7 @@ Halka açık kullacılar arasından, ID komşuluğuna göre albüm hazırlar
 * **AlbumYap.py** dosyasını python IDE ile açın
 * **F5**' basın
 * Face ID'nizi girin ( ../KULLANICIADI şeklinde kullanıyorsanız ID'inizi bulmak için: https://findmyfbid.in/)
-* Kısa sürede albümünüz hazır olacak ;)
+* Kısa sürede sizle aynı dakikalarda üye olan ID komşularınızın albümü hazır olacak ;)
 
 #### Not
 Sadece halka açık olarak resmini paylaşmış kullanıcıları görebilirsiniz.
